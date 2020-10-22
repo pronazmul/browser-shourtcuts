@@ -10,4 +10,10 @@ Tabs
       Ctrl+N – Open a new browser window.
       Alt+F4 – Close the current window. (Works in all applications.)
 
+Mouse Actions for Tabs
+      Middle Click a Tab – Close the tab.
+      Ctrl+Left Click, Middle Click – Open a link in a background tab.
+      Shift+Left Click – Open a link in a new browser window.
+      Ctrl+Shift+Left Click – Open a link in a foreground tab.
+      
 
