@@ -37,5 +37,20 @@ Scrolling
     Home – Top of page.
     End – Bottom of page.
     Middle Click – Scroll with the mouse. (Windows only)
-    
+
+Address Bar
+    Ctrl+L or Alt+D or F6 – Focus the address bar so you can begin typing.
+    Ctrl+Enter – Prefix www. and append .com to the text in the address bar, and then load the website. 
+    Alt+Enter – Open the location in the address bar in a new tab.
+
+Search
+Ctrl+K or Ctrl+E – Focus the browser’s built-in search box or focus the address bar if the browser doesn’t have a dedicated search box. (Ctrl+K doesn’t work in IE, Ctrl+E does.)
+
+Alt+Enter – Perform a search from the search box in a new tab.
+
+Ctrl+F or F3 – Open the in-page search box to search on the current page.
+
+Ctrl+G or F3 – Find the next match of the searched text on the page.
+
+Ctrl+Shift+G or Shift+F3 – Find the previous match of the searched text on the page.
     
