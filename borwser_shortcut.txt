@@ -55,3 +55,12 @@ Search
     Ctrl+J – Open the download history.
     Ctrl+D – Bookmark the current website.
     Ctrl+Shift+Del – Open the Clear Browsing History window.
+    
+Other Functions
+    Ctrl+P – Print the current page.
+    Ctrl+S – Save the current page to your computer.
+    Ctrl+O – Open a file from your computer.
+    Ctrl+U – Open the current page’s source code. (Not in IE.)
+    F12 – Open Developer Tools.
+
+
