@@ -1,0 +1,13 @@
+                                                    47 Keyboard Shortcuts That Work in All Web Browsers
+Tabs
+      Ctrl+1-8 – Switch to the specified tab, counting from the left.
+      Ctrl+9 – Switch to the last tab.
+      Ctrl+Tab – Switch to the next tab – in other words, the tab on the right. (Ctrl+Page Up also works, but not in Internet Explorer.)
+      Ctrl+Shift+Tab – Switch to the previous tab – in other words, the tab on the left. (Ctrl+Page Down also works, but not in Internet Explorer.)
+      Ctrl+W, Ctrl+F4 – Close the current tab.
+      Ctrl+Shift+T – Reopen the last closed tab.
+      Ctrl+T – Open a new tab.
+      Ctrl+N – Open a new browser window.
+      Alt+F4 – Close the current window. (Works in all applications.)
+
+
