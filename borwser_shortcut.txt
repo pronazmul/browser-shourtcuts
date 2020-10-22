@@ -30,3 +30,12 @@ Zooming
     Ctrl and – or Ctrl+Mousewheel Down — Zoom out.
     Ctrl+0 – Default zoom level.
     F11 – Full-screen mode.
+    
+Scrolling
+    Space or Page Down – Scroll down a frame.
+    Shift+Space or Page Up – Scroll up a frame.
+    Home – Top of page.
+    End – Bottom of page.
+    Middle Click – Scroll with the mouse. (Windows only)
+    
+    
