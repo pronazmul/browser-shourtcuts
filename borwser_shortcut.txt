@@ -24,3 +24,9 @@ Navigation
       Ctrl+F5 – Reload and skip the cache, re-downloading the entire website.
       Escape – Stop.
       Alt+Home – Open homepage.
+
+Zooming
+    Ctrl and + or Ctrl+Mousewheel Up – Zoom in.
+    Ctrl and – or Ctrl+Mousewheel Down — Zoom out.
+    Ctrl+0 – Default zoom level.
+    F11 – Full-screen mode.
