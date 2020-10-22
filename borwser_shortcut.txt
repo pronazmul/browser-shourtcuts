@@ -50,3 +50,8 @@ Search
     Ctrl+G or F3 – Find the next match of the searched text on the page.
     Ctrl+Shift+G or Shift+F3 – Find the previous match of the searched text on the page.
     
+ History & Bookmarks
+    Ctrl+H – Open the browsing history.
+    Ctrl+J – Open the download history.
+    Ctrl+D – Bookmark the current website.
+    Ctrl+Shift+Del – Open the Clear Browsing History window.
