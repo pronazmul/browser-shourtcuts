@@ -17,3 +17,10 @@ Mouse Actions for Tabs
       Ctrl+Shift+Left Click – Open a link in a foreground tab.
       
 
+Navigation
+      Alt+Left Arrow or Backspace – Back.
+      Alt+Right Arrow or Shift+Backspace – Forward.
+      F5 – Reload.
+      Ctrl+F5 – Reload and skip the cache, re-downloading the entire website.
+      Escape – Stop.
+      Alt+Home – Open homepage.
